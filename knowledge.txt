@@ -1,0 +1,6 @@
+Python is a general-purpose programming language known for readable syntax.
+Ollama runs supported language models locally through a command line and HTTP API.
+An AI agent observes information, chooses actions, uses tools and evaluates results.
+Human-in-the-loop means a person reviews or approves selected agent decisions.
+Retrieval-augmented generation supplies relevant source material to a language model.
+
