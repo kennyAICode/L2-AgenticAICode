@@ -1,0 +1,6 @@
+[
+  {"id": "K1", "text": "Python functions are declared with def and may return a value."},
+  {"id": "K2", "text": "Ollama provides an HTTP API for running local language models."},
+  {"id": "K3", "text": "Agent state stores information passed between workflow steps."},
+  {"id": "K4", "text": "Human-in-the-loop adds human review to selected agent decisions."}
+]
