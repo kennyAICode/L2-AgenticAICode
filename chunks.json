@@ -1,0 +1,37 @@
+[
+  {
+    "source": "agents.txt",
+    "number": 1,
+    "text": "An AI agent observes its environment, reasons about a goal and takes"
+  },
+  {
+    "source": "agents.txt",
+    "number": 2,
+    "text": "goal and takes actions. Tools allow an agent to calculate, search files"
+  },
+  {
+    "source": "agents.txt",
+    "number": 3,
+    "text": "calculate, search files or call an API. State carries information between workflow"
+  },
+  {
+    "source": "agents.txt",
+    "number": 4,
+    "text": "information between workflow steps."
+  },
+  {
+    "source": "python.txt",
+    "number": 1,
+    "text": "Python uses indentation to define code blocks. Functions are declared with def."
+  },
+  {
+    "source": "python.txt",
+    "number": 2,
+    "text": "declared with def. Lists store ordered values. Dictionaries store key-value pairs."
+  },
+  {
+    "source": "python.txt",
+    "number": 3,
+    "text": "key-value pairs."
+  }
+]

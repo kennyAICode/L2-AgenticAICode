@@ -1,0 +1,3 @@
+An AI agent observes its environment, reasons about a goal and takes actions.
+Tools allow an agent to calculate, search files or call an API.
+State carries information between workflow steps.

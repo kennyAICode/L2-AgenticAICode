@@ -1,0 +1,2 @@
+Python uses indentation to define code blocks. Functions are declared with def.
+Lists store ordered values. Dictionaries store key-value pairs.
