@@ -1,20 +1,19 @@
-# L2 Day 2 — Agentic Design Patterns
+# L2 Day 3 — Programming Framework: Anatomy and Tool Registry
 
-This day implements three foundational patterns: ReAct-style reasoning/action/observation, planner–executor, and reflection.
+The examples separate model access, tool registration, orchestration and result data. This modular structure is the beginning of an agent framework.
 
 ## Run
 
 ```powershell
-ollama serve
-python 01_react_agent.py
-python 02_planner_executor.py
-python 03_reflection.py
+python tool_registry.py
+python 02_modular_agent.py
 ```
 
-## Lab exercises
+The reusable registry module has no numeric prefix because Python importable module names cannot begin with a digit.
 
-1. Add two entries to the ReAct agent's knowledge dictionary.
-2. Change the planner from three steps to five and validate the result.
-3. Make the reflector score the draft from 1–5 before rewriting it.
-4. Record where TinyLlama fails to follow a requested output format.
+## Lab
 
+- Add `lowercase` and `character_count` tools.
+- Reject duplicate tool names.
+- Add descriptions to each registered tool.
+- Discuss why the fallback tool can give the wrong result.
